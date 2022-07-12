@@ -1,0 +1,10 @@
+Variables: Una variable en programación es un dato que puede cambiar de valor.
+
+Strings: Una cadena de caracteres, palabras, ristra de caracteres o frase es una secuencia ordenada (de longitud arbitraria, aunque finita).
+
+Funciones: una función es una sección de un programa que calcula un valor de manera independiente al resto del programa.
+
+Declaraciones: una declaración es una sentencia que introduce una variable en el programa.
+
+Valores booleanos: Los datos booleanos son el resultado de una operación lógica. Representan valores de lógica binaria, derivan en solo dos estados: un 
+		   todo verdadero o en un todo falso.
