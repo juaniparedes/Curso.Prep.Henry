@@ -1,0 +1,8 @@
+for: instruccion que permite repetir instrucciones una cantidad de veces establecida y predeterminada. Tiene condicion inicial, condicion de corte y ademas el contador se va incrementando a medida que cada ciclo termina.
+
+&&: operador AND, se utiliza por ejemplo, dentro del if, para anidar condiciones. El operador AND devuelve true si ambos operandos son true y devuelven false de lo contrario.
+
+||: operador OR, idem AND pero devuelve true si uno u otro son true. Devuelve false si ambos lo son.
+
+!: operador NOT. Niega la sentencia anterior. Ejemplo:  !true = false.
+							!!true = true
