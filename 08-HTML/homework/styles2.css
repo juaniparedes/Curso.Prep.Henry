@@ -1,0 +1,19 @@
+#columnagorda {
+    width: 60%;
+    align-items: left;
+}
+
+#columnaFlaca {
+    width: 40%;
+    align-items: right;
+}
+
+img {
+    width: 300px;
+}
+
+#primeraparte {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

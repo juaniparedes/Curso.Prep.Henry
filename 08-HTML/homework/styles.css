@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: blueviolet;
+    padding: 50px;
+    border: 5px;
+    border-color: green;
+    border-style: double;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url(imagenes/fondo.jpg);
+    margin: 0 auto;
+    text-align: center;
+}
+div {
+    margin: 0 auto;
+}
